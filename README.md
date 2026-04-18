@@ -1,12 +1,8 @@
-```
-                           ██╗   ██╗██████╗ ██████╗      █████╗ ███╗   ███╗██████╗
-                           ██║   ██║██╔══██╗██╔══██╗    ██╔══██╗████╗ ████║██╔══██╗
-                           ██║   ██║██║  ██║██████╔╝    ███████║██╔████╔██║██████╔╝
-                           ██║   ██║██║  ██║██╔═══╝     ██╔══██║██║╚██╔╝██║██╔═══╝
-                           ╚██████╔╝██████╔╝██║         ██║  ██║██║ ╚═╝ ██║██║
-                            ╚═════╝ ╚═════╝ ╚═╝         ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
-                                 UDP Amplification Attack Surface Monitor
-```
+<p align="center">
+
+![alt text](https://github.com/renzi25031469/UDP-Amplification-Attack/blob/main/udp_amp_blueteam_banner.svg?raw=true)
+
+<p align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.6%2B-blue?style=for-the-badge&logo=python"/>
