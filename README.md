@@ -182,7 +182,7 @@ The targets file accepts IPs, CIDRs, and comments:
 192.168.0.0/24
 
 # External range
-10.10.0.0/16
+100.10.0.0/16
 
 # Single host
 203.0.113.45
@@ -526,7 +526,7 @@ O arquivo de targets aceita IPs, CIDRs e comentários:
 192.168.0.0/24
 
 # Faixa externa
-10.10.0.0/16
+100.10.0.0/16
 
 # Host único
 203.0.113.45
